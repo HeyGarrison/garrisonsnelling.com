@@ -11,7 +11,7 @@ eleventyNavigation:
 
 I'm Garrison and it's a pleasure to make your acquaintance! I help craft delightful web products for a living.
 
-I'm a big believer in humor. I think it can bring people together and teardown barriers.
+I'm a big believer in humor. I think it can bring people together and teardown walls.
 
 😆😆😆
 
