@@ -7,4 +7,14 @@ eleventyNavigation:
   order: 3
 ---
 
-It's me - I am a person that writes stuff.
+# Hi 👋👋👋
+
+I'm Garrison and it's a pleasure to make your acquaintance! I help craft delightful web products for a living.
+
+I'm a big believer in humor. I think it can bring people together and teardown barriers.
+
+😆😆😆
+
+On this blog you can expect to read whatever is on my mind. it'll likely be a bunch of jokes you don't get, but I think are hilarious.
+
+
