@@ -17,4 +17,4 @@ I'm a big believer in humor. I think it can bring people together and teardown b
 
 On this blog you can expect to read whatever is on my mind. it'll likely be a bunch of jokes you don't get, but I think are hilarious.
 
-- Garrison
+-- Garrison
